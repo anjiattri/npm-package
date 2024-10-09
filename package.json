@@ -1,0 +1,19 @@
+{
+  "name": "is-anjali",
+  "version": "2.0.0",
+  "description": "is the string anjali",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjiattri/npm-package.git"
+  },
+  "author": "Anjali Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjiattri/npm-package/issues"
+  },
+  "homepage": "https://github.com/anjiattri/npm-package#readme"
+}
