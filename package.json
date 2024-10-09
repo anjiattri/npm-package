@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "beta": "npm version prerelease --preid=beta && git push && git push --tags && npm publish --tag beta"
+    "preversion-beta": "npm version prerelease --preid=beta",
+    "postversion-beta": " git push && git push --tags && npm publish --tag beta"
   },
   "repository": {
     "type": "git",
