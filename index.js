@@ -1,4 +1,4 @@
 function isAnjali(str) {
-  return str.toLowerCase() === "anjali" || str.toLowerCase() === "";
+  return str.toLowerCase() === "anjali";
 }
 module.exports = isAnjali;
